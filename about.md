@@ -3,10 +3,10 @@ author: barinali
 comments: true
 date: 2014-09-17 00:00:40+00:00
 layout: page
-link: http://blog.alibarin.com.tr/hakkimda/
+link: http://blog.alibarin.com.tr/about/
 permalink: /about/
-slug: hakkimda
-title: Hakkımda
+slug: about
+title: About
 tags: about
 ---
 
