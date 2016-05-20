@@ -27,5 +27,3 @@ __In shortly__, I love building something with Javascript.
 __In addition to all these__, I am experienced with Wordpress, PHP, and Python.
 
 > "Choose a job you love, and you will never have to work a day in your life." – Confucius
-
-And I have a job as Confucius said.
