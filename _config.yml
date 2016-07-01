@@ -2,16 +2,16 @@
 title:       Blog
 email:       ali.barin53@gmail.com
 author:      Ali BARIN
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Development and developer things of Ali BARIN"
 baseurl:     ""
 url:         "/"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: RlTfZchPT9F-yL-N9QkgOSE3IoCODMMNEdOM-pFSi4I
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: "UA-4907247-12"
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -38,8 +38,8 @@ facebook_comments_number: 10
 
 # Social icons
 github_username: barinali
-bitbucket_username:
-stackoverflow_id:
+bitbucket_username: barinali
+stackoverflow_id: 2324048
 twitter_username: barinali
 skype_username: alibarin
 steam_nickname:

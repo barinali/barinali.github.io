@@ -6,6 +6,7 @@ layout: post
 link: http://blog.alibarin.com.tr/how-to-change-the-screenshot-saving-folder/
 permalink: /how-to-change-the-screenshot-saving-folder
 title: How to Change the Screenshot Saving Folder
+meta_description: How to change the screenshot saving folder on MacOS
 categories:
 - Uncategorised
 tags:
@@ -22,10 +23,8 @@ I often use these shortcuts. But I wasn't happy because of these screenshots 
 
 We follow a few steps for the changing. We can apply the following on terminal for changing path as ~/Desktop/Screenshots/;
 
-
     mkdir ~/Desktop/Screenshots/
     defaults write com.apple.screencapture location ~/Desktop/Screenshots/
     killall SystemUIServer
-
 
 **p.s.**: If you already created a folder for this action, you don't need apply _mkdir_ command which is on highlighted line.

@@ -6,7 +6,7 @@ layout: post
 link: http://blog.alibarin.com.tr/e2e-testing-with-protractor-for-angular/
 permalink: /e2e-testing-with-protractor-for-angular
 title: E2E Testing with Protractor for Angular
-wordpress_id: 137
+meta_description: E2E testing for AngularJS by using Protractor, Selenium web driver.
 categories:
 - Angular.js
 - Testing
@@ -24,18 +24,9 @@ I have been writing E2E test for a project that I am working on. And critical p
 
 Our deployment cycle is like the following;
 
-
-
-
   1. open a pull request
-
-
   2. run a new vagrant environment with code that is in the pull request for preview/testing.
-
-
   3. **test the critical path** and new feature or bug fix.
-
-
   4. pass or fail the the pull request
 
 

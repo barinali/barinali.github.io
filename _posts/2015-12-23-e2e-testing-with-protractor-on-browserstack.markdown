@@ -6,7 +6,7 @@ layout: post
 link: http://blog.alibarin.com.tr/e2e-testing-with-protractor-on-browserstack/
 permalink: /e2e-testing-with-protractor-on-browserstack
 title: E2E Testing with Protractor on BrowserStack
-wordpress_id: 139
+meta_description: E2E testing on BrowserStack by using Protractor
 categories:
 - Angular.js
 - Testing
