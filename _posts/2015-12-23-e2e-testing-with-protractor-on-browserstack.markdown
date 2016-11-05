@@ -15,7 +15,7 @@ tags:
 - browserstack
 - protractor
 - reporter
-- seleniumb
+- selenium
 - teamcity
 - testing
 ---
