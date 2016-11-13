@@ -3,7 +3,7 @@ author: barinali
 comments: true
 date: 2015-12-23 20:30:44+00:00
 layout: post
-link: http://blog.alibarin.com.tr/e2e-testing-with-protractor-for-angular/
+link: http://blog.alibarin.com.tr/e2e-testing-with-protractor-for-angular
 permalink: /e2e-testing-with-protractor-for-angular
 title: E2E Testing with Protractor for Angular
 meta_description: E2E testing for AngularJS by using Protractor, Selenium web driver.

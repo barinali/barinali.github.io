@@ -14,7 +14,7 @@ excerpt: 'Merhaba,
   giriş yapıp birden fazla hesabımıza erişebileceğimizi söylemekte. Fakat bu benim
   için çözüm denilemeyecek gibi bir öneri.'
 layout: post
-link: http://blog.alibarin.com.tr/coklu-hipchat-oturumu/
+link: http://blog.alibarin.com.tr/coklu-hipchat-oturumu
 permalink: /coklu-hipchat-oturumu
 title: Çoklu HipChat Oturumu
 categories:

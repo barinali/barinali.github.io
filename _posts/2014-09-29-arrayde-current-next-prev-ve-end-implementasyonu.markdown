@@ -9,7 +9,7 @@ excerpt: 'Merhaba,
   implemente edilişini anlatacağım. Benim yaygın olarak kullandığım bir kaç method
   mevcut. Bunlar sırasıyla; current, next, prev ve end methodları.'
 layout: post
-link: http://blog.alibarin.com.tr/arrayde-current-next-prev-ve-end-implementasyonu/
+link: http://blog.alibarin.com.tr/arrayde-current-next-prev-ve-end-implementasyonu
 slug: arrayde-current-next-prev-ve-end-implementasyonu
 title: Array’de Current, Next, Prev ve End İmplementasyonu
 wordpress_id: 36
@@ -34,32 +34,32 @@ Benim yaygın olarak kullandığım bir kaç method mevcut. Bunlar sırasıyla
 
 Bu tarz işlemler için genelde;
 
-    
+
     index = 0;
     arr = ["item 1", "item 2", "item 3"];
-    
+
     console.log(arr[index++]);
-    
+
     console.log(arr[index++]);
 
 
 gibi yöntemler kullanmaktayız. Fakat bu şekilde her Array için dizinin indeksini bulup elle artırıp/azaltıp veyahut dizinin uzunluğunu bulup ona göre son elemanı bulmaktayız. Ama aşağıdaki gibi bir implementasyon yaparsak bu dizi gezme işlemini daha efektif şekilde kullanabiliriz.
 
-    
+
     Array.prototype.index = 0;
-    
+
     Array.prototype.current = function() {
       return this[this.index];
     }
-    
+
     Array.prototype.prev = function() {
       return this[--this.index];
     }
-    
+
     Array.prototype.next = function() {
       return this[++this.index];
     }
-    
+
     Array.prototype.end = function() {
       return this[this.length-1];
     }
@@ -69,21 +69,21 @@ Buraya kadar herşey güzel, tamam. Ama aklınızda burada bir soru oluşması l
 
 Bu noktada yukarıdaki kod bloğumuzu aşağıdaki şekilde güncellersek herhangi bir sıkıntı kalmayacaktır.
 
-    
+
     Array.prototype.index = 0;
-    
+
     Array.prototype.current = function() {
       return this[this.index];
     }
-    
+
     Array.prototype.prev = function() {
       return this[--this.index] || this[this.index = this.length-1];
     }
-    
+
     Array.prototype.next = function() {
       return this[++this.index] || this[this.index = 0];
     }
-    
+
     Array.prototype.end = function() {
       return this[this.length-1];
     }

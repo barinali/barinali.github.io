@@ -3,7 +3,7 @@ author: barinali
 comments: true
 date: 2016-11-06 20:00:00+02:00
 layout: post
-link: http://blog.alibarin.com.tr/crawlers-and-spas/
+link: http://blog.alibarin.com.tr/crawlers-and-spas
 permalink: /crawlers-and-spas
 title: Crawlers and SPAs
 meta_description:

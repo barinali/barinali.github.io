@@ -8,7 +8,7 @@ excerpt: 'Herkese merhabalar,
   wordpress''in son sürümünü bu adres altına kurup yayına aldım. Yakın zaman içerisinde
   de aktif olarak yazı yazmayı hedeflemekteyim.'
 layout: post
-link: http://blog.alibarin.com.tr/merhaba-dunya/
+link: http://blog.alibarin.com.tr/merhaba-dunya
 slug: merhaba-dunya
 title: Merhaba Dünya!
 categories:

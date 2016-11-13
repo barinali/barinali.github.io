@@ -10,7 +10,7 @@ excerpt: 'Mac OS X kullananların sıkca başvurduğu kısayollardan biridir cmd
   ki kısa bir araştırma sonrası bu kısayollar aracılığıyla alınan ekran görüntülerin
   kaydedildiği varsayılan klasör adresinin nasıl değiştirildiğini öğrendim.'
 layout: post
-link: http://blog.alibarin.com.tr/mac-os-xte-screenshot-kayit-klasorunu-degistirmek/
+link: http://blog.alibarin.com.tr/mac-os-xte-screenshot-kayit-klasorunu-degistirmek
 permalink: /mac-os-xte-screenshot-kayit-klasorunu-degistirmek
 title: Mac OS X'te Screenshot Kayıt Klasörünü Değiştirmek
 categories:

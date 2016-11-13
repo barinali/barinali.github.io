@@ -3,7 +3,7 @@ author: barinali
 comments: true
 date: 2015-08-25 21:58:25+00:00
 layout: post
-link: http://blog.alibarin.com.tr/how-to-change-the-screenshot-saving-folder/
+link: http://blog.alibarin.com.tr/how-to-change-the-screenshot-saving-folder
 permalink: /how-to-change-the-screenshot-saving-folder
 title: How to Change the Screenshot Saving Folder
 meta_description: How to change the screenshot saving folder on MacOS
