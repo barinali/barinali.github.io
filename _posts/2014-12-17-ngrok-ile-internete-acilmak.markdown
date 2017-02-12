@@ -14,7 +14,7 @@ link: http://blog.alibarin.com.tr/ngrok-ile-internete-acilmak/
 permalink: ngrok-ile-internete-acilmak
 title: ngrok ile İnternet'e Açılmak
 categories:
-- Uncategorised
+- Uncategorized
 tags:
 - expose to internet
 - ngrok

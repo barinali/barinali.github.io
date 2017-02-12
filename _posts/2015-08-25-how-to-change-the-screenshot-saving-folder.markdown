@@ -8,7 +8,7 @@ permalink: /how-to-change-the-screenshot-saving-folder
 title: How to Change the Screenshot Saving Folder
 meta_description: How to change the screenshot saving folder on MacOS
 categories:
-- Uncategorised
+- Uncategorized
 tags:
 - capturing folder
 - change

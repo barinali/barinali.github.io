@@ -3,8 +3,6 @@ author: barinali
 comments: true
 date: 2014-09-29 20:30:27+00:00
 excerpt: 'Merhaba,
-
-
   Bu yazıda PHP‘deki Array‘in sahip olduğu bir takım işlevlerin JavaScript’teki Array‘e
   implemente edilişini anlatacağım. Benim yaygın olarak kullandığım bir kaç method
   mevcut. Bunlar sırasıyla; current, next, prev ve end methodları.'

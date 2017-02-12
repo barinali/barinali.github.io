@@ -14,10 +14,10 @@ link: http://blog.alibarin.com.tr/mac-os-xte-screenshot-kayit-klasorunu-degistir
 permalink: /mac-os-xte-screenshot-kayit-klasorunu-degistirmek
 title: Mac OS X'te Screenshot Kayıt Klasörünü Değiştirmek
 categories:
-- Uncategorised
+- Uncategorized
 tags:
 - change
-- osx
+- macOS
 - save location
 - screenshots
 - terminal

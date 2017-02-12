@@ -18,7 +18,7 @@ link: http://blog.alibarin.com.tr/coklu-hipchat-oturumu
 permalink: /coklu-hipchat-oturumu
 title: Çoklu HipChat Oturumu
 categories:
-- Uncategorised
+- Uncategorized
 tags:
 - Atlassian
 - Çoklu Oturum
