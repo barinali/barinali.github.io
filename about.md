@@ -10,20 +10,20 @@ title: About
 tags: about
 ---
 
-Hey, I'm Ali, front-end developer from Istanbul, Turkey. I've been working at [VNGRS](http://vngrs.com).
+Hey, I am Ali, a front-end developer from Berlin, Germany. I have been working at [immmr GmbH](https://immmr.com).
 
 ### Education
 
-I graduated from Computer Education and Instructional Technology at Istanbul University. I've been currently studying Management Information Systems as a master student at Ahmet Yesevi University.
+I graduated from Computer Education and Instructional Technology at Istanbul University. I had been studying Management Information Systems as a master student at Ahmet Yesevi University. But I had dropped out to move to Berlin.
 
-### What I use? What I build?
+### What I do?
 
-__As a front-end developer__, I use technologies like HTML5, CSS3, Javascript, AngularJS for my daily work. I am also interested in discovering new technologies and getting information about CS concepts. I develop my own jQuery plugins when I need at project. I've been developing some web based games with [PhaserJS](https://github.com/photonstorm/phaser).
+__As a person__, I am always trying to improve myself in anyway. It does not have to be related to just hard skills. So I may call myself as an [informavore](https://en.wikipedia.org/wiki/Informavore).
+
+__As a front-end developer__, I am very close with Javascript as you would appreciate. I do not discriminate any technology since Javascript is rapidly-developing. I was working within AngularJS tech stack before. Nowadays, I have been working within React tech stack. I am also interested in discovering new technologies, and getting information about CS concepts.
 
 __As a back-end developer__ (usually for my side projects), I use [NodeJS](https://github.com/nodejs/node) with [ExpressJS](https://github.com/expressjs/express) for building APIs. Nowadays, I am trying GO programming language.
 
-__In shortly__, I love building something with Javascript.
-
-__In addition to all these__, I am experienced with Wordpress, PHP, and Python.
+__In a nutshell__, I love building, getting knowledge.
 
 > "Choose a job you love, and you will never have to work a day in your life." – Confucius
